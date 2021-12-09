@@ -1,2 +1,2 @@
-# the_dilemma_of_prisoner
+# prisoner's dilemma
 The biggest dilemma you may encounter, solved.
